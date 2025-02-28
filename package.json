@@ -1,8 +1,8 @@
 {
-  "name": "patternugit",
-  "displayName": "Patternugit",
+  "name": "obsidian-lexicalcs-plugin",
+  "displayName": "Lexicalcs",
   "version": "2.3.0",
-  "description": "Preconfigured pattern for your repository with universal cases for markdown files of documentations and other actions/scripts",
+  "description": "Plugin to check TTR and calculate other lexical diversity params for your files",
   "main": "prepare-template.js",
   "private": true,
   "scripts": {
@@ -60,7 +60,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Falcion/Patternugit.git"
+    "url": "git+https://github.com/Meteospax/obsidian-lexicalcs-plugin.git"
   },
   "markdown": "github",
   "os": [
@@ -73,13 +73,13 @@
     "lib": "lib"
   },
   "keywords": [
-    "github",
-    "documentation",
-    "repository",
-    "repository-template",
-    "github-template",
-    "workflows-to-access",
-    "workflows-reusable"
+    "obsidian",
+    "plugin",
+    "lexical",
+    "lexical-diversity",
+    "calculator",
+    "obsidian-plugin",
+    "typescript"
   ],
   "author": {
     "email": "io.falcion@outlook.com",
@@ -88,35 +88,35 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Falcion/Patternugit/issues",
+    "url": "https://github.com/Meteospax/obsidian-lexicalcs-plugin/issues",
     "email": "io.falcion@outlook.com"
   },
-  "homepage": "https://github.com/Falcion/Patternugit#readme",
+  "homepage": "https://github.com/Meteospax/obsidian-lexicalcs-plugin#readme",
   "badges": [
     {
       "description": "contributors",
-      "href": "https://github.com/Falcion/Patternugit/graphs/contributors",
-      "url": "https://img.shields.io/github/contributors/Falcion/Patternugit"
+      "href": "https://github.com/Meteospax/obsidian-lexicalcs-plugin/graphs/contributors",
+      "url": "https://img.shields.io/github/contributors/Meteospax/obsidian-lexicalcs-plugin"
     },
     {
       "description": "stargazers",
-      "href": "https://github.com/Falcion/Patternugit/stargazers",
-      "url": "https://img.shields.io/github/stars/Falcion/Patternugit"
+      "href": "https://github.com/Meteospax/obsidian-lexicalcs-plugin/stargazers",
+      "url": "https://img.shields.io/github/stars/Meteospax/obsidian-lexicalcs-plugin"
     },
     {
       "description": "forks",
-      "href": "https://github.com/Falcion/Patternugit/forks",
-      "url": "https://img.shields.io/github/forks/Falcion/Patternugit"
+      "href": "https://github.com/Meteospax/obsidian-lexicalcs-plugin/forks",
+      "url": "https://img.shields.io/github/forks/Meteospax/obsidian-lexicalcs-plugin"
     },
     {
       "description": "issues",
-      "href": "https://github.com/Falcion/Patternugit/issues",
-      "url": "https://img.shields.io/github/issues/Falcion/Patternugit"
+      "href": "https://github.com/Meteospax/obsidian-lexicalcs-plugin/issues",
+      "url": "https://img.shields.io/github/issues/Meteospax/obsidian-lexicalcs-plugin"
     },
     {
       "description": "last-commit",
-      "href": "https://github.com/Falcion/Patternugit/commits",
-      "url": "https://img.shields.io/github/last-commit/Falcion/Patternugit"
+      "href": "https://github.com/Meteospax/obsidian-lexicalcs-plugin/commits",
+      "url": "https://img.shields.io/github/last-commit/Meteospax/obsidian-lexicalcs-plugin"
     }
   ],
   "capabilities": {
@@ -126,7 +126,7 @@
     },
     "virtualWorkspaces": true
   },
-  "readme": "https://github.com/Falcion/Patternugit#readme",
+  "readme": "https://github.com/Meteospax/obsidian-lexicalcs-plugin#readme",
   "release": {
     "tagFormat": "v${version}",
     "dryRun": true,
@@ -147,9 +147,9 @@
     ]
   },
   "packageManager": "npm@10.7.0",
-  "module": "patternugit",
+  "module": "lexicalcs",
   "dist": {
-    "tarball": "https://api.github.com/repos/Falcion/Patternugit/tarball/main"
+    "tarball": "https://api.github.com/repos/Meteospax/obsidian-lexicalcs-plugin/tarball/main"
   },
   "engines": {
     "npm": ">=10.0.0",

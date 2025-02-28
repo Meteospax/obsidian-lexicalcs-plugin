@@ -1,9 +1,9 @@
 
-### Repository Settings for Patternugit
+### Repository Settings for obsidian-lexicalcs-plugin
 
 #### **General Information:**
 
-- **Repository Name**: Patternugit
+- **Repository Name**: obsidian-lexicalcs-plugin
 - **Visibility**: Public
 - **Default Branch**: `main`
 

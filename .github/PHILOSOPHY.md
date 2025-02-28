@@ -1,3 +1,7 @@
+> [!Note]
+> This is a clone of philosophy file of PATTERNU's project, it still applies to
+> this project, for more information, read the document.
+
 Let's start with the simplest and most introductory essence of the philosophy of
 the PATTERNU project - it defines the philosophy of those projects that use things
 surrounding its philosophy (scripts, CI/CD, etc.) if they have not designated their

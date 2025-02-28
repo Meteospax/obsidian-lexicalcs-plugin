@@ -1,20 +1,16 @@
 {
   "repository": {
-    "name": "Patternugit",
-    "description": "Preconfigured pattern for your repository with universal cases for markdown files of documentations and other actions/scripts",
+    "name": "obsidian-lexicalcs-plugin",
+    "description": "A plugin for markdown-editor OBSIDIAN which allows you to calculate lexical diversity (TTR) and other params",
     "homepage": "",
     "topics": [
-      "github",
-      "template",
-      "documentation",
-      "repository",
-      "template-project",
-      "documentations",
-      "repository-template",
-      "github-template",
-      "template-repository",
-      "workflows-to-access",
-      "workflows-reusable"
+      "obsidian",
+      "plugin",
+      "lexical",
+      "lexical-diversity",
+      "calculator",
+      "obsidian-plugin",
+      "typescript"
     ],
     "private": false,
     "has_issues": true,

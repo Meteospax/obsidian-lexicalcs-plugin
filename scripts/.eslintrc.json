@@ -1,6 +1,0 @@
-{
-  "plugins": ["unicorn"],
-  "rules": {
-    "unicorn/prefer-node-protocol": "error"
-  }
-}
